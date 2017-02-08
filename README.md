@@ -13,6 +13,6 @@ Feed Reader requires [source code](https://github.com/alexagran/frontend-nanodeg
 
 To test the site
 1. Ensure you have an internet connection as frameworks
-2. Navigate to the local directory where you downloaded the source code
-3. Launch index.html
-4. Observe the passing Jasmine tests
+1. Navigate to the local directory where you downloaded the source code
+1. Launch index.html
+1. Observe the passing Jasmine tests
