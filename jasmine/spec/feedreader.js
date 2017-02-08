@@ -91,8 +91,9 @@ $(function() {
     });
 
         
+    describe('Initial Entries', function () {
 
-    /* TODO: Write a new test suite named "Initial Entries" */
+        /* TODO: Write a new test suite named "Initial Entries" */
 
         /* TODO: Write a test that ensures when the loadFeed
          * function is called and completes its work, there is at least
@@ -100,6 +101,11 @@ $(function() {
          * Remember, loadFeed() is asynchronous so this test will require
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
+
+        beforeEach()
+
+    });
+    
 
     /* TODO: Write a new test suite named "New Feed Selection"
 
