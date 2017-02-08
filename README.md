@@ -12,7 +12,7 @@ The Feed Reader meets all of the Udacity project requirements by providing the f
 Feed Reader requires [source code](https://github.com/alexagran/frontend-nanodegree-feedreader) to be installed within one folder. The source code can be installed in any local directory. 
 
 To test the site
-1. Ensure you have an internet connection as frameworks
-1. Navigate to the local directory where you downloaded the source code
-1. Launch index.html
-1. Observe the passing Jasmine tests
+* Ensure you have an internet connection as frameworks
+* Navigate to the local directory where you downloaded the source code
+* Launch index.html
+* Observe the passing Jasmine tests
